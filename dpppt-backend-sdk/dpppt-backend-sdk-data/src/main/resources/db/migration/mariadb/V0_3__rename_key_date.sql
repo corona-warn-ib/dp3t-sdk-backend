@@ -1,0 +1,1 @@
+ALTER TABLE t_exposed CHANGE COLUMN onset key_date Date NOT NULL;
